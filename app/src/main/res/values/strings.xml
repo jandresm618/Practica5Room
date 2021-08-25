@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">DeudoresApp</string>
+    <string name="title_list">Lista</string>
+    <string name="title_create">Crear</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_update">Actualizar</string>
+    <string name="title_delete">Eliminar</string>
+    <string name="name_hint">Digite el nombre:</string>
+    <string name="phone_hint">Digite el Telefono:</string>
+    <string name="amount_hint">Digite el Valor:</string>
+    <string name="create">Crear</string>
+    <string name="name_example">Ruth Merchan</string>
+    <string name="amount_example" >450000</string>
+    <string name="title_detail">Detalles Deudor</string>
+    <string name="search_hint">Digite el nombre:</string>
+    <string name="search_button_title" >Buscar</string>
+    <string name="phone_value">"Telefono: $%s"</string>
+    <string name="amount_value">"Valor: $%s"</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="email">Correo Electrònico</string>
+    <string name="password">Contraseña</string>
+    <string name="register">Registrarse</string>
+    <string name="forgotten">¿Olvido su contraseña?</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="logout_menu">Cerrar Sesion</string>
+
+    <string name="title">Formulario</string>
+    <string name="warning">Campo Requerido</string>
+    <string name="save">Guardar</string>
+    <string name="info">Nombre Usuario</string>
+    <string name="email_error">El usuario NO existe</string>
+    <string name="email_unaccepted">Correo no valido.</string>
+    <string name="email_blank">Digite un correo</string>
+    <string name="password_error">No coinciden</string>
+    <string name="wrong_password">Usuario o Contraseña incorrectos.</string>
+    <string name="password_not_enough">Minimo 6 caracteres</string>
+    <string name="incomplete_error">Datos Incompletos</string>
+    <string name="required">Campo Requerido</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_Chat">Chat</string>
+    <string name="title_shopping_cart">Carrito</string>
+    <string name="title_products">Productos</string>
+    <string name="type_some">Escriba aqui</string>
+    <string name="title_activity_login_fingerprint">LoginFingerprintActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="hello_chat_fragment">Bienvenido a laSeccion de Pago.</string>
+    <string name="hello_products_fragment">Bienvenido al Mostrador</string>
+    <string name="hello_profile_fragment">Bienvenido a su Perfil</string>
+    <string name="hello_shop_cart_fragment">Bienvenido al Carro de Compras.</string>
+</resources>
